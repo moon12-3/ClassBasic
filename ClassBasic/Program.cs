@@ -15,7 +15,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             OtherClass oc = new OtherClass();
 
-
             Console.WriteLine("Hello World!");
 
             List<Student> list = new List<Student>()
